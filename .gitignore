@@ -1,0 +1,10 @@
+
+# SQL Server files
+*.mdf
+*.ldf
+
+
+
+# Lokala databasfiler
+!*.mdf
+!*.ldf
